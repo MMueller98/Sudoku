@@ -1,0 +1,14 @@
+SUDOKU: 
+
+*Spielfeld: 
+	** pro feld ein rect 
+	** in 9x9 array angeordnet  
+
+*Logik:
+	** 9 boxes, 9 rows, 9 columns -> müssen jeweils alle Zahlen von 1-9 enthalten 
+	** Listen erstellen die entsprechenden Felder des Spielfelds referenzieren 
+	** 
+
+*Funktionalitäten:
+	** menu: neues Spiel starten, zurücksetzen, eigenes Spiel starten, "Lösung anzeigen" 
+	** click on rect -> zahl eintragen 	
